@@ -1,4 +1,4 @@
-# Lucky Automation Pipeline
+# Dynamic Event Ingestion Pipeline
 
 Playwright scrapes quotes from Quotes to Scrape and sends them to a local
 FastAPI endpoint. The API writes each batch to PostgreSQL's
